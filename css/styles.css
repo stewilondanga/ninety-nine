@@ -18,11 +18,11 @@ table {
   table-layout: fixed;
 }
 
-/*th {
+th {
   position: sticky;
 }
 
-thead tr th {
+/*thead tr th {
   top: 0;
 }
 
