@@ -22,11 +22,11 @@ th {
   position: sticky;
 }
 
-/*thead tr th {
+thead tr th {
   top: 0;
 }
 
-thead tr th:first-of-type {
+/*thead tr th:first-of-type {
   left: 0;
   z-index: 1;
 }
