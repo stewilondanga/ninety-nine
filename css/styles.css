@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,45 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+/*structural*/
+/*table {
+  table-layout: fixed;
+}
+
+th {
+  position: sticky;
+}
+
+thead tr th {
+  top: 0;
+}
+
+thead tr th:first-of-type {
+  left: 0;
+  z-index: 1;
+}
+
+tbody th {
+  left: 0;
+}
+
+/*styling*/
+/*tbody tr:nth-of-type(odd) td:nth-of-type(odd),
+tbody tr:nth-of-type(even) td:nth-of-type(even) {
+  background: #eee;
+}
+
+th, td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+th {
+  padding: 2ch;
+  background: #222;
+  color: #eee;
 }
 
 .containers {
